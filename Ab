@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>اطلاعات تماس و فروشگاه‌ها</title>
+  <style>
+    body {
+      font-family: 'Tahoma', sans-serif;
+      background-color: #fefefe;
+      margin: 0;
+      padding: 0;
+      direction: rtl;
+      color: #333;
+    }
+    .container {
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 12px;
+    }
+    h2 {
+      color: #d35400;
+      border-bottom: 2px solid #f39c12;
+      padding-bottom: 10px;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    .store {
+      margin-bottom: 20px;
+    }
+    @media (max-width: 600px) {
+      .container {
+        margin: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>📌 راه‌های ارتباط با ما</h2>
+    <p><strong>📱 اینستاگرام:</strong> <a href="https://instagram.com/poursheykhi.comm" target="_blank">@poursheykhi.comm</a></p>
+    <p><strong>🌐 وب‌سایت:</strong> <a href="poursheykhi.com" target="_blank">www.yourwebsite.com</a></p>
+
+    <h2>🏪 آدرس فروشگاه‌ها</h2>
+    <div class="store">
+      <p><strong>فروشگاه مرکزی:</strong><br> ،  اهواز ،سیمتری ، نبش خیابان اهوازیان ، فروشگاه گلبافت</p>
+    </div>
+    <div class="store">
+      <p><strong>شعبه پارک سنتر:</strong><br>اهواز،  پارک سنتر ، طبقه سوم ، واحد ۳۱۹</p>
+    </div>
+    <div class="store">
+      <p><strong>شعبه خانه تشک:</strong><br>اهواز ،سیمتری ، نبش خیابان اهوازیان ، خانه تشک </p>
+    </div>
